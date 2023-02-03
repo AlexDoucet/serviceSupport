@@ -1,0 +1,27 @@
+.get{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+p{
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+  background-color: #0798b1;
+  height: 5vh;
+  cursor: pointer;
+  border: 1px solid #0798b1;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  box-shadow: 0 0 .2rem #fff,
+  0 0 .2rem #fff,
+  0 0 2rem #0798b1,
+  0 0 0.8rem #0798b1,
+  0 0 2.8rem #0798b1,
+  inset 0 0 1.3rem #0798b1;
+
+}
